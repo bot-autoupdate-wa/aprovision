@@ -4,7 +4,9 @@
     "selected": false,
     "type": "torrent",
     "url": "magnet:?xt=urn:btih:3621c6c5302af33dc46ce4d73d1de95b7f3c33b5&dn=DWG_TrueView_2027.zip&xl=2549105044",
-    "fileName": "DWG_TrueView_2027.zip"
+    "fileName": "DWG_TrueView_2027.zip",
+    "archive": "7zip",
+    "installerFileName": "Setup.exe"
   },
   {
     "name": "Autodesk Navisworks Freedom 2027",
@@ -19,5 +21,12 @@
     "type": "download",
     "url": "https://github.com/bot-autoupdate-wa/aprovision/releases/download/1.2/SAP3DVisualEnterpriseViewer-9.6.0.exe",
     "fileName": "SAP3DVisualEnterpriseViewer-9.6.0.exe"
+  },
+  {
+    "name": "FortiClient VPN",
+    "selected": false,
+    "type": "download",
+    "url": "https://github.com/bot-autoupdate-wa/aprovision/releases/download/1.4/FortiClientVPN.exe",
+    "fileName": "FortiClientVPN.exe"
   }
 ]
