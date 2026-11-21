@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Autodesk DWG TrueView 2027",
+    "selected": false,
+    "type": "torrent",
+    "url": "magnet:?xt=urn:btih:3621c6c5302af33dc46ce4d73d1de95b7f3c33b5&dn=DWG_TrueView_2027.zip&xl=2549105044",
+    "fileName": "DWG_TrueView_2027.zip"
+  },
+  {
+    "name": "Autodesk Navisworks Freedom 2027",
+    "selected": false,
+    "type": "download",
+    "url": "https://dds.autodesk.com/NetSWDLD/ODIS/prd/2027/NAVFREE/52AC45A2-3099-370C-8394-8B347967768B/SFX/Autodesk_Navisworks_Freedom_2027_Win_64bit_db.sfx.exe",
+    "fileName": "NavisworksFreedom2027.exe"
+  },
+  {
+    "name": "SAP 3D Visual Enterprise Viewer",
+    "selected": false,
+    "type": "download",
+    "url": "https://github.com/bot-autoupdate-wa/aprovision/releases/download/1.2/SAP3DVisualEnterpriseViewer-9.6.0.exe",
+    "fileName": "SAP3DVisualEnterpriseViewer-9.6.0.exe"
+  }
+]
