@@ -1,0 +1,8 @@
+[
+  { "name": "7-Zip", "wingetId": "7zip.7zip", "selected": false },
+  { "name": "Cisco Jabber", "wingetId": "Cisco.Jabber", "selected": false },
+  { "name": "KeePass", "wingetId": "DominikReichl.KeePass", "selected": false },
+  { "name": "Zoom", "wingetId": "Zoom.Zoom.EXE", "selected": false },
+  { "name": "Adobe Acrobat Reader", "wingetId": "Adobe.Acrobat.Reader.64-bit", "selected": false },
+  { "name": "Google Chrome", "wingetId": "Google.Chrome", "selected": false }
+]
